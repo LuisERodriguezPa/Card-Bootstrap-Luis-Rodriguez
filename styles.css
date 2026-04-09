@@ -1,0 +1,24 @@
+.card{
+    width: 20rem;
+}
+
+.fa-brands{
+    font-size: 40px;
+    color:rgb(0, 114, 176)
+
+}
+a{
+    display: inline-block;
+}
+.btn_gmail img{
+    display:block;
+    width: 40px;
+}
+.fa-github{
+    color: black;
+}
+.redes_sociales{
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
