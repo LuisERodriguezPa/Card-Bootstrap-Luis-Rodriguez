@@ -1,3 +1,6 @@
+body{
+    height: 100vh;
+}
 .card{
     width: 20rem;
 }
@@ -16,9 +19,4 @@ a{
 }
 .fa-github{
     color: black;
-}
-.redes_sociales{
-    display: flex;
-    align-items: center;
-    gap: 10px
 }
